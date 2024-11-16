@@ -117,7 +117,7 @@ I am passionate about giving back to the community by mentoring aspiring Salesfo
 
 ## 🛠 Skills
 ### **Salesforce Expertise**
-- CRM Solutions: Sales Cloud, Service Cloud, Marketing Cloud  
+- CRM Solutions: Sales Cloud, Service Cloud, Experience Cloud  
 - Development: Apex, Visualforce, Lightning Web Components (LWC)  
 - Integration: REST/SOAP APIs, Vlocity CPQ, Omnistudio  
 - Analytics: Tableau CRM, Einstein Analytics  
