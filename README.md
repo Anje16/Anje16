@@ -1,7 +1,6 @@
 # Anjali Dahiya
 👩‍💻 Salesforce Consultant & Architect | 25x Salesforce-Certified | CRM & Vlocity Specialist
 
-📍 Hamburg, Germany  
 ---
 
 ## 🌟 About Me
