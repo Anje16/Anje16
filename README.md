@@ -2,9 +2,6 @@
 👩‍💻 Salesforce Consultant & Architect | 25x Salesforce-Certified | CRM & Vlocity Specialist
 
 📍 Hamburg, Germany  
-📧 [anjali.dahiya16@yahoo.com](mailto:anjali.dahiya16@yahoo.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/anjali16) | [Personal Website](https://www.anjali-dahiya.com) | [Xing Profile](https://www.xing.com/profile/Anjali_Dahiya4)
-
 ---
 
 ## 🌟 About Me
